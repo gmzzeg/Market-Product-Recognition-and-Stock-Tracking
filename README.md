@@ -7,7 +7,7 @@
 </video>
 
 
-# Market Product Recognition and Stock Tracking  
+# Market Ürün Tanıma ve Stok Takibi 
 
 Bu proje, **market ürünlerini kamera üzerinden gerçek zamanlı tanıyıp stok bilgisini otomatik güncelleyen** bir sistemdir.  
 **YOLOv4 Tiny** nesne tanıma modeli kullanılarak ürünler tespit edilir, ekranda kutucuk içine alınarak adları ve doğruluk oranları gösterilir.  
