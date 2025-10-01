@@ -1,0 +1,2 @@
+# Market-Product-Recognition-and-Stock-Tracking
+Bu proje, market ürünlerini kamera görüntüsü üzerinden tanıyıp stok bilgisini otomatik olarak güncelleyen bir sistemdir. YOLOv4 Tiny nesne tanıma algoritması ile gerçek zamanlı ürün tespiti yapılır. Tespit edilen ürünler ekranda kutucuk içine alınarak adları ve doğruluk oranları gösterilir. Excel dosyasında stok miktarı otomatik güncellenerek dinamik stok takibi sağlanır.
