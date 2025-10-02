@@ -1,4 +1,6 @@
-<img src="video.gif" alt="Video Demo" width="320">
+<div align="center">
+  <img src="video.gif" alt="Video Demo" width="320">
+</div>
 # Market Ürün Tanıma ve Stok Takibi 
 
 Bu proje, **market ürünlerini kamera üzerinden gerçek zamanlı tanıyıp stok bilgisini otomatik güncelleyen** bir sistemdir.  
