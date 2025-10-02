@@ -1,11 +1,7 @@
 
 
 
-<video width="600" autoplay loop muted>
-  <source src="https://github.com/user-attachments/assets/d3e8396e-8063-4629-a484-5bc45df45e5f" type="video/mp4">
-  Tarayıcınız video etiketini desteklemiyor.
-</video>
-
+![Video Demo](video.gif)
 
 # Market Ürün Tanıma ve Stok Takibi 
 
